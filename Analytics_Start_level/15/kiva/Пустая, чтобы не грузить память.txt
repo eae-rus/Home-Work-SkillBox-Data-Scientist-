@@ -1,0 +1,3 @@
+Здесь должны находиться:
+kiva_loans
+kiva_mpi_region_locations
