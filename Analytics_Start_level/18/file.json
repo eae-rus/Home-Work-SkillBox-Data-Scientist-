@@ -1,0 +1,202 @@
+{
+    "message": "like",
+    "cod": "200",
+    "count": 5,
+    "list": [
+        {
+            "id": 555312,
+            "name": "Ivanovo",
+            "coord": {
+                "lat": 56.9942,
+                "lon": 40.9858
+            },
+            "main": {
+                "temp": -5.64,
+                "feels_like": -10.02,
+                "temp_min": -5.64,
+                "temp_max": -5.64,
+                "pressure": 1037,
+                "humidity": 93,
+                "sea_level": 1037,
+                "grnd_level": 1020
+            },
+            "dt": 1674317345,
+            "wind": {
+                "speed": 2.77,
+                "deg": 153
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 100
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e",
+                    "icon": "04n"
+                }
+            ]
+        },
+        {
+            "id": 730852,
+            "name": "Ivanovo",
+            "coord": {
+                "lat": 43.7,
+                "lon": 25.9833
+            },
+            "main": {
+                "temp": 11.96,
+                "feels_like": 11.17,
+                "temp_min": 11.96,
+                "temp_max": 11.96,
+                "pressure": 1013,
+                "humidity": 75,
+                "sea_level": 1013,
+                "grnd_level": 1003
+            },
+            "dt": 1674317137,
+            "wind": {
+                "speed": 6.01,
+                "deg": 150
+            },
+            "sys": {
+                "country": "BG"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 29
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c",
+                    "icon": "03n"
+                }
+            ]
+        },
+        {
+            "id": 730851,
+            "name": "Obshtina Ivanovo",
+            "coord": {
+                "lat": 43.7,
+                "lon": 25.9833
+            },
+            "main": {
+                "temp": 11.96,
+                "feels_like": 11.17,
+                "temp_min": 11.96,
+                "temp_max": 11.96,
+                "pressure": 1013,
+                "humidity": 75,
+                "sea_level": 1013,
+                "grnd_level": 1003
+            },
+            "dt": 1674317137,
+            "wind": {
+                "speed": 6.01,
+                "deg": 150
+            },
+            "sys": {
+                "country": "BG"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 29
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0441\u0442\u044c",
+                    "icon": "03n"
+                }
+            ]
+        },
+        {
+            "id": 789982,
+            "name": "Ivanovo",
+            "coord": {
+                "lat": 44.7392,
+                "lon": 20.6975
+            },
+            "main": {
+                "temp": 3.28,
+                "feels_like": -0.87,
+                "temp_min": 3.05,
+                "temp_max": 3.31,
+                "pressure": 1011,
+                "humidity": 70,
+                "sea_level": 1011,
+                "grnd_level": 1002
+            },
+            "dt": 1674317140,
+            "wind": {
+                "speed": 5.11,
+                "deg": 108
+            },
+            "sys": {
+                "country": "RS"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 100
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e",
+                    "icon": "04n"
+                }
+            ]
+        },
+        {
+            "id": 6608392,
+            "name": "Ivanovo",
+            "coord": {
+                "lat": 56.6914,
+                "lon": 43.4161
+            },
+            "main": {
+                "temp": -7.39,
+                "feels_like": -12.69,
+                "temp_min": -7.39,
+                "temp_max": -7.39,
+                "pressure": 1039,
+                "humidity": 91,
+                "sea_level": 1039,
+                "grnd_level": 1025
+            },
+            "dt": 1674317699,
+            "wind": {
+                "speed": 3.29,
+                "deg": 155
+            },
+            "sys": {
+                "country": "RU"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 100
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e",
+                    "icon": "04n"
+                }
+            ]
+        }
+    ]
+}
